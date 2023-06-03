@@ -44,5 +44,5 @@
 
     display:grid;
    
-    grid-template-coluns: 20% 20% 20% 20% ;
+   grid-template-columns: 20% 20% 20% 20% ;
 }
