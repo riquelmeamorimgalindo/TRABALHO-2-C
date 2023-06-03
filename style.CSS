@@ -1,8 +1,8 @@
    *{margin: 0
       padding:  0;}
 
-.cabeçalho{ background-color: rgb(207, 230, 253);
-            color:#00008B;
+.cabeçalho{ background-color: rgb(111, 169, 226);
+            color:#4141f7;
             display:flex;
          justify-content: space-around;
          padding: 12px 0;
@@ -33,7 +33,7 @@
 }
 .escola-texto { font-size: 18px;}
 
-.estudantes{background-color: cadetblue;}
+.estudantes{background-color: rgb(83, 52, 253);}
 .estudantes-imagem{width: 100px;}
 .escola-titulo{padding: 20px 0 0 150px;}
 
